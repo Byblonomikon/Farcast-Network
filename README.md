@@ -89,17 +89,12 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 ### License
 
-This project is licensed under the MIT License. Refer to the LICENSE file for more details.
+
 
 
 ### Acknowledgments
 
-We would like to express our gratitude to the following individuals and projects for their inspiration and contributions to this work:
 
-[Project/Individual 1]
-[Project/Individual 2]
-[Project/Individual 3]
-Their valuable insights and efforts have helped shape and enhance this software.
 
 
 ### Contact
