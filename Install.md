@@ -1,4 +1,4 @@
-# Clonar el Repositori: Clona el repositori del projecte des de GitHub utilitzant la comanda següent:
+## Clonar el Repositori: Clona el repositori del projecte des de GitHub utilitzant la comanda següent:
 
 git clone https://github.com/YourUsername/YourRepository.git
 
