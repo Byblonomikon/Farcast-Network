@@ -1,1 +1,8 @@
-.
+Flask==2.1.0
+cryptography==3.4.7
+ipfshttpclient==0.8.0
+pytest==6.2.4
+pysha3==1.0.2
+
+
+# Assegura't de copiar aquesta llista completa al fitxer requirements.txt perquè puguis instal·lar totes les llibreries correctament utilitzant pip install -r requirements.txt.
