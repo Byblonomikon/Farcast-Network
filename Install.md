@@ -9,7 +9,7 @@ cd YourRepository
 python -m venv venv
 
 
-##Activar l'Entorn Virtual: Activa l'entorn virtual per a utilitzar-lo a la teva terminal o consola:
+## Activar l'Entorn Virtual: Activa l'entorn virtual per a utilitzar-lo a la teva terminal o consola:
 
 En Windows: venv\Scripts\activate
 
