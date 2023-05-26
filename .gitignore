@@ -1,0 +1,25 @@
+# Fitxers de compilació
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Entorns virtuals
+venv/
+env/
+
+# Fitxers de configuració local
+config.ini
+config.py
+
+# Dependències instal·lades
+libreria/
+node_modules/
+
+# Fitxers generats per IDEs
+.idea/
+.vscode/
+
+# Fitxers de registre i fitxers temporals
+log/
+temp/
