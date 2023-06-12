@@ -101,6 +101,3 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 For any inquiries or further information about this project, please contact:
 
-Enric Sierra
-
-ensierrar@gmail.com
