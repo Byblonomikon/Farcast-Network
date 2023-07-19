@@ -1,4 +1,4 @@
-# Document Organization and Management Software
+# Document Organization and Management Software (under development)
 
 This project aims to develop a mobile app and computer software that facilitates the organization of digital documentation for users. The primary objective of this software is to classify and digitize documents of interest to the user, which may not necessarily be within the literary or academic spectrum. These documents are considered personal and private, such as certificates, academic titles, employment contracts, rental agreements, and more. As public administration increasingly transitions to digital formats, there is a need to have information under control and prevent loss due to computer or system errors.
 
