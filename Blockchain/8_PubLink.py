@@ -1,4 +1,4 @@
-# Script per a publicar el BlockHash resultant del PrivCript
+# Script per a publicar el BlockHash resultant del PrivCript en la BlockChain 
 
 
 from web3 import Web3
