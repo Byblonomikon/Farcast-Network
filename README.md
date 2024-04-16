@@ -1,10 +1,12 @@
 # Document Organization and Management Software (under development)
 
-This project aims to develop a mobile app and computer software that facilitates the organization of digital documentation for users. The primary objective of this software is to classify and digitize documents of interest to the user, which may not necessarily be within the literary or academic spectrum. These documents are considered personal and private, such as certificates, academic titles, employment contracts, rental agreements, and more. As public administration increasingly transitions to digital formats, there is a need to have information under control and prevent loss due to computer or system errors.
+The objective of this project is the planning, creation, and management of a mobile app and computer software that allows the organization of all digital documentation available to the user. The aim of this software is to classify and digitize all documents that may be of interest to the user and may not necessarily be part of the literary or academic spectrum, understanding them as personal and private documents (certificates, academic titles, job contracts, rental agreements, etc.), as with the progressive digitization of public administration, there is less physical documentation available, and it is necessary to have the information always under control and prevent it from being lost as a result of any error in the computer system.
 
-The idea behind this project is to analyze existing similar projects in the market and propose improvements, with a particular focus on handling sensitive data, whether personal or academic. To achieve this, distributed ledger technology (DLT) or blockchain will be applied for storing the information. This approach ensures the permanent availability of data from any location while guaranteeing immutability through decentralization of information control.
+The project idea involves analyzing different similar projects and proposing improvements focused on an environment where special emphasis is placed on handling sensitive data. Therefore, with a particular interest in this matter, Distributed Ledger Technology (DLT) will be applied for storing this information, enabling permanent data availability from any location and ensuring total immutability thanks to the decentralization of information control.
+
 
 The project will consist of several phases. Initially, an analysis of the current state of the topic will be conducted, including studying various existing similar projects, identifying their strengths and weaknesses. Subsequently, the functionalities and architecture of the software will be explained, serving as the core of the project. The application's operation will be described, involving different elements that form the blockchain and IPFS ecosystem.
+
 
 ## Features
 
@@ -99,5 +101,5 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 ### Contact
 
-For any inquiries or further information about this project, please contact:
+For any inquiries or further information about this project, please contact: ensierrar@gmail.com
 
