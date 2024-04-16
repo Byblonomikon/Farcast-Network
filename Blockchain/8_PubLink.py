@@ -1,4 +1,4 @@
-# Script per a publicar el BlockHash resultant del PrivCript en la BlockChain 
+# Script per a publicar el BlockHash resultant del PrivCript en la BlockChain de ComLog.py
 
 
 from web3 import Web3
